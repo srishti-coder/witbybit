@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/witbybit/static/css/main.69bcd2d1.css",
-    "main.js": "/witbybit/static/js/main.c47fa57e.js",
+    "main.js": "/witbybit/static/js/main.5d9806a3.js",
     "static/media/nike.png": "/witbybit/static/media/nike.3a0ab86a31a2b0689215.png",
     "index.html": "/witbybit/index.html",
     "main.69bcd2d1.css.map": "/witbybit/static/css/main.69bcd2d1.css.map",
-    "main.c47fa57e.js.map": "/witbybit/static/js/main.c47fa57e.js.map"
+    "main.5d9806a3.js.map": "/witbybit/static/js/main.5d9806a3.js.map"
   },
   "entrypoints": [
     "static/css/main.69bcd2d1.css",
-    "static/js/main.c47fa57e.js"
+    "static/js/main.5d9806a3.js"
   ]
 }
